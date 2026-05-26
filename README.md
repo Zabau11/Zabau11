@@ -13,4 +13,4 @@ I love exploring all corners of computer science, from AI and Machine Learning t
 # 📊 GitHub Stats:
 
 ![](https://streak-stats.demolab.com/?user=Zabau11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Zabau11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
